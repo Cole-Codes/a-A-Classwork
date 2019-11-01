@@ -1,0 +1,1 @@
+game.board[pos].revealed = true if !guess && game.board[pos] && game.board[pos].revealed == false
